@@ -90,7 +90,7 @@ const playMusic = () => {
                 className="mb-8"
               >
                 <div className="relative inline-block">
-                  <span className="text-6xl md:text-8xl filter drop-shadow-md">🎵</span>
+                  <span className="text-6xl md:text-8xl filter drop-shadow-md">❤️</span>
                   <motion.div 
                     animate={{ rotate: 360 }}
                     transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
