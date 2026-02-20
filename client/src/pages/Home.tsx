@@ -318,7 +318,7 @@ function SuccessView() {
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 0.4 }}
       >
-        YAAYY!!!!
+        YAAYY!!
       </motion.h1>
 
       <motion.div 
